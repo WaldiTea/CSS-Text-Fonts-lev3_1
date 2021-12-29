@@ -1,0 +1,48 @@
+h1 {
+  background: #4c4c4c;
+  color: white;
+  font-family: "Tahoma";
+  font-size: 48px;
+  text-align: center;
+  padding: 10px;
+}
+main,
+section,
+article {
+  margin: 0 25px;
+}
+
+main p,
+section p {
+  text-decoration: underline;
+}
+
+main p {
+  text-transform: uppercase;
+}
+
+section p {
+  text-transform: lowercase;
+}
+
+h2 {
+  color: lightgray;
+  font-size: 36px;
+  text-align: end;
+  text-shadow: -2px -2px 0 black;
+  word-spacing: 40px;
+  letter-spacing: 5px;
+}
+
+ul {
+  background: #d3d3d3;
+}
+
+li {
+  background: #999;
+  margin: 0 25px;
+}
+
+li p {
+  margin: 15px 60px;
+}
